@@ -7,8 +7,7 @@
             <div class="center">
               <h1>
                 <i class="ace-icon fa fa-leaf green"></i>
-                <span class="red">Backend</span>
-                <span class="white" id="id-text2">Management System</span>
+                <span class="black" id="id-text2">Backend Management System</span>
               </h1>
             </div>
 
