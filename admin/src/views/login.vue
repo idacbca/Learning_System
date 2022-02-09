@@ -10,7 +10,6 @@
                 <span class="red">Backend</span>
                 <span class="white" id="id-text2">Management System</span>
               </h1>
-              <h4 class="blue" id="id-company-text">&copy; Company Name</h4>
             </div>
 
             <div class="space-6"></div>
@@ -74,7 +73,7 @@
 </template>
 
 <script>
-  $('body').attr('class', 'login-layout light-login');
+$('body').attr('class', 'login-layout light-login');
 export default {
   name: 'App'
 }
